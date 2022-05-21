@@ -28,7 +28,7 @@ module.exports = async (client) => {
   
   
 rpc.getRpcImage
-(APPID, LARGEIGM)//1°setApplicationId, 2°Name(Key)largename
+(APPID, LARGEIMG)//1°setApplicationId, 2°Name(Key)largename
 .then(large => {
   
   
